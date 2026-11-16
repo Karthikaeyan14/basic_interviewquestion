@@ -1,0 +1,11 @@
+Common Coding Questions
+1. Reverse a String or Number: Write a function to reverse digits or character sequences.
+2. Check for Palindrome: Verify if a given string or number reads the same forwards and backwards.
+3. Two Sum Problem: Find two numbers in an array that add up to a specific target value.
+4. Find Duplicates/Missing Numbers: Identify missing or duplicate elements in a sorted or unsorted array.
+5. Fibonacci Series: Print the first N Fibonacci numbers or find the N-th term.
+6. Valid Parentheses: Check if an expression has balanced and properly matched brackets.
+7. Binary Search: Implement an efficient search algorithm on a sorted array
+8. Prime Number: Check if a given number is a prime number.
+9. Factorial Calculation: Find the factorial of a number using recursion or loops.
+10. Valid Anagram: Check if two strings contain the exact same characters in any order.
